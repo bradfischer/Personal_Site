@@ -11,6 +11,11 @@ body {
   background: #46a510;
 }
 
+.portfolio-content {
+  float: left;
+  width: 500px;
+}
+
   .site-nav a {
     padding-left: 1em;
     padding-right: 1em;
