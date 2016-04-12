@@ -16,7 +16,14 @@ body {
   width: 500px;
 }
 
-  .site-nav a {
+.photo-header {
+  float: left;
+  width: 400px;
+}
+
+
+
+.site-nav a {
     padding-left: 1em;
     padding-right: 1em;
     color: white;
